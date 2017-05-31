@@ -1,0 +1,8 @@
+C:\_WORKS\george\tests\stopwatch\bin\Debug\netcoreapp1.1\stopwatch.deps.json
+C:\_WORKS\george\tests\stopwatch\bin\Debug\netcoreapp1.1\stopwatch.runtimeconfig.json
+C:\_WORKS\george\tests\stopwatch\bin\Debug\netcoreapp1.1\stopwatch.runtimeconfig.dev.json
+C:\_WORKS\george\tests\stopwatch\obj\Debug\netcoreapp1.1\stopwatch.AssemblyInfo.cs
+C:\_WORKS\george\tests\stopwatch\bin\Debug\netcoreapp1.1\stopwatch.dll
+C:\_WORKS\george\tests\stopwatch\bin\Debug\netcoreapp1.1\stopwatch.pdb
+C:\_WORKS\george\tests\stopwatch\obj\Debug\netcoreapp1.1\stopwatch.dll
+C:\_WORKS\george\tests\stopwatch\obj\Debug\netcoreapp1.1\stopwatch.pdb
